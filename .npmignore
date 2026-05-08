@@ -1,0 +1,9 @@
+prd.md
+PRD.md
+*.test.js
+.vscode/
+.idea/
+*.log
+.DS_Store
+.env
+.env.*
