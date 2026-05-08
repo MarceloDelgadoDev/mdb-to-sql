@@ -16,6 +16,10 @@
     "migration",
     "dump"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarceloDelgadoDev/mdb-to-sql"
+  },
   "license": "MIT",
   "engines": {
     "node": ">=16"
