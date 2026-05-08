@@ -1,6 +1,6 @@
 {
   "name": "mdb-to-sql",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts .mdb (Microsoft Access) files to .sql from the command line",
   "type": "module",
   "bin": {
